@@ -1,2 +1,0 @@
-# EventManegment
-Full Stack
